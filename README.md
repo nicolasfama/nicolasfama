@@ -16,7 +16,7 @@ Soy un desarrollador apasionado por el **código abierto**, la **innovación** y
 
 ## ⚡ Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,react,nodejs,express,html,css,tailwind,docker,git,github" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,react,nodejs,express,html,css,mongo,git,github" />
 </p>
 
 ---
