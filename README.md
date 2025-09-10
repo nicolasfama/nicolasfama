@@ -1,16 +1,41 @@
 ## Hi there 👋
 
-<!--
-**nicolasfama/nicolasfama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 ¡Hola, soy [Nicolas fama]!
 
-Here are some ideas to get you started:
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Soy un desarrollador apasionado por el **código abierto**, la **innovación** y el **aprendizaje constante**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Sobre mí  
+- 💻 Trabajo con: **JavaScript | Python | Node.js | React**  
+- 🌱 Actualmente aprendiendo: **IA 🤖 y Cloud ☁️**  
+- 🤝 Buscando colaborar en proyectos interesantes y con impacto  
+- ☕ Fun fact: el café siempre me acompaña mientras programo  
+
+---
+
+## ⚡ Tech Stack  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,react,nodejs,express,html,css,tailwind,docker,git,github" />
+</p>
+
+---
+
+## ✨ Emojis en movimiento  
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="60">  
+  <img src="https://media.giphy.com/media/llarwdtFqG63IlqUR1/giphy.gif" width="60">  
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="60">  
+</p>
+
+---
+
+## 📫 Conecta conmigo  
+- 🌐 [https://github.com/nicolasfama]  
+- 💼 [https://www.linkedin.com/in/nicolas-fama-bba212370/]  
+- ✉️ [famanicolaseze@gmail.com]
+
+---
+
+✨ _Gracias por visitar mi perfil_ ✨
+
